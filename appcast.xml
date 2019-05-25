@@ -1,12 +1,10 @@
+<?xml version="1.0" standalone="yes"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>Rooms</title>
 <item>
-    <title>Version 102 (2 bugs fixed; 3 new features)</title>
-    <sparkle:releaseNotesLink>
-        https://example.com/release_notes/app_2.0.html
-    </sparkle:releaseNotesLink>
-    <pubDate>Mon, 05 Oct 2016 19:20:11 +0000</pubDate>
-    <enclosure url="https://github.com/rogerzhang/auto/blob/master/Rooms.pkg"
-               sparkle:version="102"
-               sparkle:edSignature="7cLALFUHSwvEJWSkV8aMreoBe4fhRa4FncC5NoThKxwThL6FDR7hTiPJh1fo2uagnPogisnQsgFgq6mGkt2RBw=="
-               length="1623481"
-               type="application/octet-stream" />
+<title>2.0.0</title>
+<pubDate>Sat, 25 May 2019 17:27:21 +0800</pubDate>
+<sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/rogerzhang/auto/blob/master/Rooms.app.zip" sparkle:version="102" sparkle:shortVersionString="1.0.0" length="33819269" type="application/octet-stream" sparkle:edSignature="HrllYblSS+8m5ZjtEnZftagsTUfqCsMLSyHrzLgyEbD4H1s3SnR4UynVZLqK8pThHqTBaLSGw1GWahIwVNwZBA=="/>
 </item>
+</channel></rss>
