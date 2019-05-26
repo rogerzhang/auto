@@ -2,9 +2,9 @@
 <channel>
 <title>Rooms</title>
 <item>
-<title>1.0.5</title>
+<title>1.0.7</title>
 <pubDate>Sun, 26 May 2019 15:26:15 +0800</pubDate>
 <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-<enclosure url="http://10.32.52.138:81/Rooms/Rooms.app.zip" sparkle:version="105" sparkle:shortVersionString="1.0.5" length="93231538" type="application/octet-stream" sparkle:edSignature="qFURlp8eHToIgm1HWdVJvaIkoi8YiaUihoxsy2Z5KnPP471vBd5fcHEsUr4UXWycVc1hYn4lHe2rvjuTF3R2DQ=="/>
+<enclosure url="http://10.32.52.138:81/Rooms/Rooms.app.zip" sparkle:version="107" sparkle:shortVersionString="1.0.7" length="93231539" type="application/octet-stream" sparkle:edSignature="jNjSLxOlW/mSSbsq9eM/4Z/u/GwkKvU4voK/0zTO6eqGqp8ZKB/yg0g3xKzzRgQpeh/8Ag2rfS7qtuB/3S7NCw=="/>
 </item>
 </channel></rss>
