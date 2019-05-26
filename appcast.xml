@@ -2,9 +2,9 @@
 <channel>
 <title>Rooms</title>
 <item>
-<title>2.0.0</title>
-<pubDate>Sat, 25 May 2019 17:27:21 +0800</pubDate>
+<title>1.0.3</title>
+<pubDate>Sun, 26 May 2019 14:25:36 +0800</pubDate>
 <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/rogerzhang/auto/blob/master/Rooms.app.zip" sparkle:version="102" sparkle:shortVersionString="1.0.0" length="33819269" type="application/octet-stream" sparkle:edSignature="HrllYblSS+8m5ZjtEnZftagsTUfqCsMLSyHrzLgyEbD4H1s3SnR4UynVZLqK8pThHqTBaLSGw1GWahIwVNwZBA=="/>
+<enclosure url="https://github.com/rogerzhang/auto/blob/master/Rooms.app.zip" sparkle:version="103" sparkle:shortVersionString="1.0.3" length="93232919" type="application/octet-stream" sparkle:edSignature="MGe/eMegD9pS8rNnhAab+LFIk7w1DRuD2efePdNYJGj7hKwsJcFlLBrbet3tzwoc9UpajoSVVaIHg1c6MBAbDA=="/>
 </item>
 </channel></rss>
