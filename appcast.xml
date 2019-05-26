@@ -5,6 +5,6 @@
 <title>1.0.3</title>
 <pubDate>Sun, 26 May 2019 14:25:36 +0800</pubDate>
 <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/rogerzhang/auto/raw/master/Rooms.app.zip" sparkle:version="103" sparkle:shortVersionString="1.0.3" length="93232919" type="application/octet-stream" sparkle:edSignature="MGe/eMegD9pS8rNnhAab+LFIk7w1DRuD2efePdNYJGj7hKwsJcFlLBrbet3tzwoc9UpajoSVVaIHg1c6MBAbDA=="/>
+<enclosure url="http://10.32.52.138:81/Rooms/Rooms.app.zip" sparkle:version="103" sparkle:shortVersionString="1.0.3" length="93232919" type="application/octet-stream" sparkle:edSignature="MGe/eMegD9pS8rNnhAab+LFIk7w1DRuD2efePdNYJGj7hKwsJcFlLBrbet3tzwoc9UpajoSVVaIHg1c6MBAbDA=="/>
 </item>
 </channel></rss>
